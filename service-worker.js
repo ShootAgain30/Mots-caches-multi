@@ -6,8 +6,8 @@ const ASSETS = [
   "./manifest.webmanifest",
 
   // Icônes PWA
-  "./icon-192.png",
-  "./icon-512.png"
+  "./icone-192.png",
+  "./icone-512.png"
 ];
 
 self.addEventListener("install", event => {
